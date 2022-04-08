@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source1.cpp
+D:\Эдик\Лабораторные\2021\II семестр\TMPS\Kursovaia_2.0\Source1.cpp(80,25): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+D:\Эдик\Лабораторные\2021\II семестр\TMPS\Kursovaia_2.0\Source1.cpp(227,22): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Kursovaia_2.0.vcxproj -> D:\Эдик\Лабораторные\2021\II семестр\TMPS\Kursovaia_2.0\Debug\Kursovaia_2.0.exe
