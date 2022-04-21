@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Lab3\Chain_of_responsibility\Header.h(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Lab3\Chain_of_responsibility\Header.h(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Lab3\Chain_of_responsibility\Header.h(71,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Lab3\Chain_of_responsibility\Header.h(89,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Lab3\Chain_of_responsibility\Header.h(115,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Lab3\Chain_of_responsibility\Header.h(134,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Chain_of_responsibility.vcxproj -> C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Lab3\Chain_of_responsibility\Debug\Chain_of_responsibility.exe
