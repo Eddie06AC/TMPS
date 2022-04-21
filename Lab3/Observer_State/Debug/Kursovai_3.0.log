@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Kursovai_3.0\Header.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Kursovai_3.0\Source.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Kursovai_3.0\Header.h(223): warning C4715: UP_DOWN_price::update: значение возвращается не при всех путях выполнения
+  Kursovai_3.0.vcxproj -> C:\Хард\Универ\Лабораторные\2021\II семестр\TMPS\Kursovai_3.0\Debug\Kursovai_3.0.exe
