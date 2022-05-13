@@ -1,0 +1,3 @@
+﻿  SOLID.cpp
+D:\Эдик\Лабораторные\2021\II семестр\TMPS\Lab4\SOLID\SOLID.h(52,18): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  SOLID.vcxproj -> D:\Эдик\Лабораторные\2021\II семестр\TMPS\Lab4\SOLID\x64\Debug\SOLID.exe
